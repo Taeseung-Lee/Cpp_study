@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semprebene\\Documents\\Cpp_study\\01_gtest\\test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEBB62F-9587-4740-839F-DE576893A905}|test1\\test1.vcxproj|C:\\Users\\semprebene\\Documents\\Cpp_study\\01_gtest\\test1\\test1\\hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EEBB62F-9587-4740-839F-DE576893A905}|test1\\test1.vcxproj|solutionrelative:test1\\hello.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello.cpp",
+              "DocumentMoniker": "C:\\Users\\semprebene\\Documents\\Cpp_study\\01_gtest\\test1\\test1\\hello.cpp",
+              "RelativeDocumentMoniker": "test1\\hello.cpp",
+              "ToolTip": "C:\\Users\\semprebene\\Documents\\Cpp_study\\01_gtest\\test1\\test1\\hello.cpp",
+              "RelativeToolTip": "test1\\hello.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-18T06:41:05.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
